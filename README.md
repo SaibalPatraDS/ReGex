@@ -10,7 +10,7 @@ A regular expression (regex or regexp for short) is a special text string for de
 2 . https://regexr.com/
 
 
-3. https://www.geeksforgeeks.org/write-regular-expressions/
+3 . https://www.geeksforgeeks.org/write-regular-expressions/
 
 
-4. https://cs.lmu.edu/~ray/notes/regex/
+4 . https://cs.lmu.edu/~ray/notes/regex/
